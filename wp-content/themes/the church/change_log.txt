@@ -1,0 +1,15 @@
+Version Pro 1.0
+1) Intial version Release
+
+Version Pro 1.1
+1) Fixed contact form 7 issue of css code
+2) WooCommerce product details page issue solved
+3) Added code to support latest WooCommerce product gallery
+4) Solved conflict between default contact form and Contact Form 7 plugin
+5) Removed conflict of Novo slider with external js files
+
+Version Pro 1.2
+1) Font Awesome Icon verison updated
+2) Compatibility checked with latest WordPress version
+3) Solved the date and time issue of Event Manager section
+4) Solved the issue of link in the Sermons section 4

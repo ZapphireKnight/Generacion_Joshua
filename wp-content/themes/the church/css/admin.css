@@ -1,0 +1,19 @@
+ 
+/* About Theme Info CSS */
+
+.about-wrap { position: relative; margin: 25px 40px 0 20px; max-width: 1050px; font-size: 15px; }
+.about-wrap h3 { margin-top:0px !important; }
+.about-wrap .nav-tab { font-size:17px !important; }
+.theme_info_wrapper p span { margin-left: 30px; }
+.theme_info_wrapper a.fame_social { margin-left: 15px; }
+
+.theme_info { padding-top:50px; }
+.theme_info a { text-decoration:none; }
+.theme_info h3 { font-size: 17px !important; margin-top: 0;	margin-bottom: 10px; }
+.theme_info_left { width: 65%; margin-right: 4%; float: left; }
+.theme_info_right { width: 31%; float: left; }
+.theme_info_right img { width: 100%; box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1); }
+.theme_info_left .col { width: 47%;float:left; margin-right:35px; padding-bottom:25px; }
+.theme_info_left .no-margin { margin-right:0px !important; }
+#support-box { background: #fff; border: 1px solid #ddd; padding: 15px 20px 10px 20px; }
+.wp-badge { font-family:15px; text-decoration:none; }
